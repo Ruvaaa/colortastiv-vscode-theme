@@ -1,0 +1,21 @@
+{
+  "name": "colortastic",
+  "displayName": "Colortastic",
+  "description": "Color explosion",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Color explosion",
+        "uiTheme": "hc-black",
+        "path": "./themes/Color explosion-color-theme.json"
+      }
+    ]
+  }
+}
