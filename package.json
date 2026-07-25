@@ -3,19 +3,40 @@
   "displayName": "Colortastic",
   "description": "Color explosion",
   "version": "0.0.1",
+  "icon": "icon.png",
+  "publisher": "Ruvaaaaaa",
+  "repository": {
+    "type": "git",
+    "url": "  https://github.com/Ruvaaa/colortastiv-vscode-theme"
+  },
+  "keywords": [
+    "theme",
+    "colourful",
+    "colorful",
+    "dark colorful",
+    "dark colourful",
+    "light colourful",
+    "light colorful"
+  ],
   "engines": {
     "vscode": "^1.125.0"
   },
   "categories": [
     "Themes"
   ],
+ 
   "contributes": {
     "themes": [
       {
-        "label": "Color explosion",
+        "label": "Colortastic Dark",
         "uiTheme": "hc-black",
-        "path": "./themes/Color explosion-color-theme.json"
-      }
+        "path": "./themes/Color explosion-dark-color-theme.json"
+      },
+      {
+      "label": "Colortastic Light",
+      "uiTheme": "vs",
+      "path": "./themes/Color explosion-light-color-theme.json"
+    }
     ]
   }
 }

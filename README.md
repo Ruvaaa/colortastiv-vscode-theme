@@ -1,16 +1,36 @@
-# colortastic README
+# Colortastic VS Code Themes 🌈✨
 
-## Working with Markdown
+A collection of vibrant, celebration-inspired themes for Visual Studio Code. Inspired by the explosive colors of the **Diwali Festival**, the **Colortastic** series brings a rich spectrum of gulal pinks, marigold yellows, emerald greens, sunset oranges, and royal purples into your editor—balanced so no single color takes over.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+---
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## 🎨 Included Themes
 
-## For more information
+### 1. Colortastic Light ☀️
+A soft, non-glare light theme (`#F8FAFC`) designed to make bright festive colors pop comfortably without blinding your eyes during daytime coding.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### 2. Colortastic Dark 🌙
+A rich, high-contrast dark theme (`#0F172A`) built for late-night coding sessions, letting glowing neon syntax colors burst against a sleek dark canvas.
 
-**Enjoy!**
+---
+
+## Previews
+
+### Colortastic Light
+![Colortastic Light Preview](./light.png)
+
+### Colortastic Dark
+![Colortastic Dark Preview](./dark.png)
+
+---
+
+## Installation
+
+### Local Development / Manual Install
+1. Copy the theme folder to your VS Code extensions directory:
+   * **Windows:** `%USERPROFILE%\.vscode\extensions\`
+   * **macOS / Linux:** `~/.vscode/extensions/`
+2. Restart VS Code.
+3. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`).
+4. Select **Preferences: Color Theme**.
+5. Choose either **Colortastic Light** or **Colortastic Dark**.
