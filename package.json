@@ -2,7 +2,7 @@
   "name": "colortastic",
   "displayName": "Colortastic",
   "description": "Color explosion",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "icon.png",
   "publisher": "Ruvaaaaaa",
   "repository": {
@@ -36,7 +36,7 @@
       "label": "Colortastic Light",
       "uiTheme": "vs",
       "path": "./themes/Color explosion-light-color-theme.json"
-    }
+      }
     ]
   }
 }
