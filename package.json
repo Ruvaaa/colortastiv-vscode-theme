@@ -1,42 +1,42 @@
 {
-  "name": "colortastic",
-  "displayName": "Colortastic",
-  "description": "Color explosion",
-  "version": "0.0.2",
-  "icon": "icon.png",
-  "publisher": "Ruvaaaaaa",
-  "repository": {
-    "type": "git",
-    "url": "  https://github.com/Ruvaaa/colortastiv-vscode-theme"
-  },
-  "keywords": [
-    "theme",
-    "colourful",
-    "colorful",
-    "dark colorful",
-    "dark colourful",
-    "light colourful",
-    "light colorful"
-  ],
-  "engines": {
-    "vscode": "^1.125.0"
-  },
-  "categories": [
-    "Themes"
-  ],
- 
-  "contributes": {
-    "themes": [
-      {
-        "label": "Colortastic Dark",
-        "uiTheme": "hc-black",
-        "path": "./themes/Color explosion-dark-color-theme.json"
-      },
-      {
-      "label": "Colortastic Light",
-      "uiTheme": "vs",
-      "path": "./themes/Color explosion-light-colour-theme.json"
-      }
-    ]
-  }
+    "name": "colortastic",
+    "displayName": "Colortastic",
+    "description": "Color explosion",
+    "version": "0.0.3",
+    "icon": "icon.png",
+    "publisher": "Ruvaaaaaa",
+    "repository": {
+        "type": "git",
+        "url": "  https://github.com/Ruvaaa/colortastiv-vscode-theme"
+    },
+    "keywords": [
+        "theme",
+        "colourful",
+        "colorful",
+        "dark colorful",
+        "dark colourful",
+        "light colourful",
+        "light colorful"
+    ],
+    "engines": {
+        "vscode": "^1.125.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Colortastic Dark",
+                "uiTheme": "hc-black",
+                "path": "./themes/Color explosion-dark-color-theme.json"
+            },
+            {
+                "label": "Colortastic Light",
+                "uiTheme": "vs",
+                "path": "./themes/Color explosion-light-colour-theme.json"
+            }
+        ]
+    },
+    "license": "MIT"
 }

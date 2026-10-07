@@ -3,7 +3,7 @@
   "name": "Colortastic Light",
   "type": "light",
   "colors": {
-    "focusBorder": "#FF007F",
+    "focusBorder": "#ff008099",
     "foreground": "#200830",
     "disabledForeground": "#A078A8",
     "widget.shadow": "#00000033",
@@ -29,12 +29,12 @@
     "editorIndentGuide.activeBackground1": "#FF007FCC",
     "editorWhitespace.foreground": "#FF007F33",
     "editorBracketMatch.background": "#00E0FF44",
-    "editorBracketMatch.border": "#00B0E0",
+    "editorBracketMatch.border": "#00afe08e",
 
     "activityBar.background": "#FF66B2",
     "activityBar.foreground": "#00E5FF",
     "activityBar.inactiveForeground": "#99FFFF",
-    "activityBar.border": "#E64D99",
+    "activityBar.border": "#e64d9ac7",
     "activityBarBadge.background": "#00E5FF",
     "activityBarBadge.foreground": "#003344",
 
@@ -51,7 +51,7 @@
     "tab.activeBackground": "#FFF6EC",
     "tab.activeForeground": "#FF007F",
     "tab.border": "#FFB3D1",
-    "tab.activeBorderTop": "#FF007F",
+    "tab.activeBorderTop": "#ff008098",
     "tab.inactiveBackground": "#FFD0E0",
     "tab.inactiveForeground": "#800050",
 
@@ -71,7 +71,7 @@
     "panel.background": "#FFF6EC",
     "panel.border": "#FFB3D1",
     "panelTitle.activeForeground": "#FF007F",
-    "panelTitle.activeBorder": "#FF007F",
+    "panelTitle.activeBorder": "#ff008084",
     "panelTitle.inactiveForeground": "#800050",
 
     "button.background": "#FF007F",
